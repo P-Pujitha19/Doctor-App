@@ -8,9 +8,15 @@ First, we need to list out the entire hospital directory for various major citie
 
 Once the doctors are selected, we will provide detailed information about the specific diseases. Following this, doctors will receive notifications from users affected by the disease. Finally, doctors will analyze their schedules and allocate appointments if they are available at the requested time.
 **Features**
+
 1.Easy to filter the doctors
+
 2.Flexible timing
+
 3.Disease based treatments
+
 4.Online & Offline Consultation
+
 5.Online Payments
+
 6.Able to Book appointment based on our availability
